@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+.col-1 {
+    background-color: lightyellow;
+}
+.col-2 {
+    background-color: mediumpurple;
+}
+.col-3 {
+    background-color: mediumvioletred;
+}
+.col-4 {
+    background-color: olivedrab;
+}
+.col-5 {
+    background-color: orchid;
+}
